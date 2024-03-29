@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\task88\task88\bin\Debug\net8.0\task88.exe
+C:\Users\HP\Desktop\task88\task88\bin\Debug\net8.0\task88.deps.json
+C:\Users\HP\Desktop\task88\task88\bin\Debug\net8.0\task88.runtimeconfig.json
+C:\Users\HP\Desktop\task88\task88\bin\Debug\net8.0\task88.dll
+C:\Users\HP\Desktop\task88\task88\bin\Debug\net8.0\task88.pdb
+C:\Users\HP\Desktop\task88\task88\obj\Debug\net8.0\task88.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\task88\task88\obj\Debug\net8.0\task88.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\task88\task88\obj\Debug\net8.0\task88.AssemblyInfo.cs
+C:\Users\HP\Desktop\task88\task88\obj\Debug\net8.0\task88.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\task88\task88\obj\Debug\net8.0\task88.sourcelink.json
+C:\Users\HP\Desktop\task88\task88\obj\Debug\net8.0\task88.dll
+C:\Users\HP\Desktop\task88\task88\obj\Debug\net8.0\refint\task88.dll
+C:\Users\HP\Desktop\task88\task88\obj\Debug\net8.0\task88.pdb
+C:\Users\HP\Desktop\task88\task88\obj\Debug\net8.0\task88.genruntimeconfig.cache
+C:\Users\HP\Desktop\task88\task88\obj\Debug\net8.0\ref\task88.dll
